@@ -6,9 +6,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Problem2Test {
 
-    @Test
-    public void test_solution(){
-        assertEquals(4613732, Problem2.solution());
-    }
-
+  @Test
+  public void test_solution() {
+    assertEquals(4613732, Problem2.solution());
+  }
 }
