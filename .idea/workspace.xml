@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86817bcd-1c61-4d7c-aab2-27f160fe2e5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem3/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jack/euler/problems/problem3/Problem3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem1/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem1/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem2/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem2/Problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jack/euler/problems/problem1/Problem1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jack/euler/problems/problem1/Problem1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jack/euler/problems/problem2/Problem2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jack/euler/problems/problem2/Problem2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem3/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jack/euler/problems/problem3/Problem3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33563218" />
-    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -252,10 +250,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1076" y="559" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1585568593624" />
-    <state x="1039" y="386" key="FileChooserDialogImpl" timestamp="1585586099392">
+    <state x="1039" y="386" key="FileChooserDialogImpl" timestamp="1585586440848">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1039" y="386" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585586099392" />
+    <state x="1039" y="386" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585586440848" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1585585920069">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -272,10 +270,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585585920069" />
-    <state x="357" y="175" key="SettingsEditor" timestamp="1585586310297">
+    <state x="357" y="175" key="SettingsEditor" timestamp="1585586893511">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="357" y="175" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1585586310297" />
+    <state x="357" y="175" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1585586893511" />
     <state x="1051" y="403" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585585888213">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
